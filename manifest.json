@@ -7,5 +7,11 @@
     "default_popup": "main.html",
     "default_icon": "preview.png"
   },
-  "author": "Erfan Korki"
+  "author": "Erfan Korki",
+  "content_scripts": [
+    {
+      "js": ["content.js"],
+      "matches": ["*://*/*"]
+    }
+  ]
 }
