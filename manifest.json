@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Clickup RTL",
+    "description": "this extension is used to make texts including RTL languages more readable",
+    "version": "1.0",
+    "action": {
+      "default_popup": "main.html",
+      "default_icon": "preview.png"
+    }
+  }
