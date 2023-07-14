@@ -1,0 +1,1 @@
+# clickup-rtl-extension
